@@ -10,13 +10,13 @@ Work on mintinstall
 Improve Cinnamon Settings...     
  
 Advanced mode is weird, fix it!  
-	Red banner at the top like nemo
-	Better button            
+	*Red banner at the top like nemo
+	*Better button            
 
 Work on Colour in Cinnamon Settings
 
 Under Date/Time settings, make link for calendar applet settings
-	Work on Date & Time Settings, Time-zones and locations
+	*Work on Date & Time Settings, Time-zones and locations
 
 Add some mint tools to cinnamon settings
 
@@ -69,7 +69,7 @@ HTML Screensavers
 Spices System for icons, gtk themes, window borders ect.
 
 Places applet merged into cinnamon
-	Custom icon
+	*Custom icon
 
 Spices system for MDM themes
 
