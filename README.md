@@ -11,6 +11,7 @@ Improve Cinnamon Settings...
  
 Advanced mode is weird, fix it!  
 	*Red banner at the top like nemo
+	
 	*Better button            
 
 Work on Colour in Cinnamon Settings
