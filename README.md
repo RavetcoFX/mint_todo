@@ -4,10 +4,18 @@ Linux Mint TODO
 
 Random
 ------
+Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its easy to pronounce, and has a great meaningful definition
+
 
 Work on mintinstall
  
 Improve Cinnamon Settings...     
+
+Add tabs to background settings for pictures and colors, try to add a custom slideshow?
+
+Change Universal Access to Accessibility
+
+	*Improve Layout
  
 Advanced mode is weird, fix it!  
 	
@@ -22,6 +30,8 @@ Under Date/Time settings, make link for calendar applet settings
 	*Work on Date & Time Settings, Time-zones and locations
 
 Add some mint tools to cinnamon settings
+
+Editable name text on desktop more readable
 
 Add Documentation for mint
 
@@ -115,4 +125,20 @@ News Stand for Linux Voice and other magazines and books
 
 More control for mice (Ability to make them slower?)
 
+Easy way to change default terminal in Nemo
+
+Implement some features from marlin to nemo
+
+User picture chooser in ubiquity
+
+in Caja change "Open as Administrator" to "Open as Root" and add a red banner like nemo
+
 Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)
+
+
+Bugs
+-------------
+
+Network manager on/off switch is visualy buggy
+
+Onscreen keyboard turn on when clicking the menu on the panel
