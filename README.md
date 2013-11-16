@@ -18,7 +18,9 @@ Alternative to banshee in Mint 17
 
 Work on mintinstall
  
-Improve Cinnamon Settings...     
+Improve Cinnamon Settings...
+
+	*Remove hardcodin, eg. use desktop files instead of hard coded items
 
 Add tabs to background settings for pictures and colors, try to add a custom slideshow?
 
@@ -141,6 +143,8 @@ Implement some features from marlin to nemo
 User picture chooser in ubiquity
 
 in Caja change "Open as Administrator" to "Open as Root" and add a red banner like nemo
+
+Add logout sound to cinnamon sounds
 
 Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)
 
