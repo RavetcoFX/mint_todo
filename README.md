@@ -6,6 +6,15 @@ Random
 ------
 Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its easy to pronounce, and has a great meaningful definition
 
+Implement some features from Deepin
+
+	* Easly accesable user manual
+
+	* Software Manager
+
+Alternative to banshee in Mint 17
+
+	*Gmusicbrowser
 
 Work on mintinstall
  
