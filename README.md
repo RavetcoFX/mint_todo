@@ -144,10 +144,3 @@ in Caja change "Open as Administrator" to "Open as Root" and add a red banner li
 
 Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)
 
-
-Bugs
--------------
-
-Network manager on/off switch is visualy buggy
-
-Onscreen keyboard turn on when clicking the menu on the panel
