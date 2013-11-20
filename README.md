@@ -22,7 +22,7 @@ Improve Cinnamon Settings...
 
 	*Remove hardcodin, eg. use desktop files instead of hard coded items
 
-Add tabs to background settings for pictures and colors, try to add a custom slideshow?
+Add tabs to background settings for pictures and colours, try to add a custom slideshow?
 
 Change Universal Access to Accessibility
 
@@ -35,6 +35,12 @@ Advanced mode is weird, fix it!
 	*Better button            
 
 Work on Colour in Cinnamon Settings
+
+Make systray items visibility configurable
+
+Make sound applet control specific applications
+
+Steal some good applications from linux deepin
 
 Under Date/Time settings, make link for calendar applet settings
 	
@@ -145,6 +151,10 @@ User picture chooser in ubiquity
 in Caja change "Open as Administrator" to "Open as Root" and add a red banner like nemo
 
 Add logout sound to cinnamon sounds
+
+Make Super+D (Show Desktop) work by default
+
+Use another meathod for bug reports
 
 Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)
 
