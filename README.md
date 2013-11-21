@@ -17,6 +17,8 @@ Alternative to banshee in Mint 17
 	*Gmusicbrowser
 
 Work on mintinstall
+
+	*Whitelist or Blacklist applications
  
 Improve Cinnamon Settings...
 
@@ -154,7 +156,9 @@ Add logout sound to cinnamon sounds
 
 Make Super+D (Show Desktop) work by default
 
-Use another meathod for bug reports
+Use another method for bug reports
+
+Icon for tanglet
 
 Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)
 
