@@ -1,16 +1,68 @@
 Linux Mint TODO
 ===============
 
+Misc
+------------------
 
-Random
-------
 Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its easy to pronounce, and has a great meaningful definition
+
+Update mint: when installing through the iso, give option to upgrade by keeping files safe, or have a separate home partition, get a list of all non white-listed default applications, keep configurations, delete everything else, install system, grab and install all applications, install config files
+
+Mint Website mockups
+
+Parental controls to stop specific users from using applications
+
+Under Date/Time settings, make link for calendar applet settings
+	
+	*Work on Date & Time Settings, Time-zones and locations
+
+Editable name text on desktop more readable
+
+MDM
+	
+	*Option to show a hint in MDM
+
+	* User configurable theme (Background ect.)
+
+Message to restart Cinnamon when icon them is changed
+
+Network password Confirmation from Cinnamon instead of nm-applet
+
+Media keys transfer to MPRIS D-Bus (leigh Linux did in git)                     
+
+Make more programs use pkexec instead of gksu
+
+
+
+
+System
+---------------------
+
+I/O in Mintx switches to match cinnamon
+
+icons for Krita and Hexalate[done] and Git monkey
+
+Totem should hide sidebar by default
+
+Gimp should be in single window mode by default
+
+Searching in mintinstall is buggy
+
+Netflix and Google Chrome on import and featured
+
+User picture chooser in ubiquity
+
+Show album art/info/basic controls on the screensaver
+
+Epub Support
+
+Guest accounts
+
+Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)\
 
 Implement some features from Deepin
 
 	* Easly accesable user manual
-
-	* Software Manager
 
 Alternative to banshee in Mint 17
 
@@ -19,146 +71,107 @@ Alternative to banshee in Mint 17
 Work on mintinstall
 
 	*Whitelist or Blacklist applications
- 
+
+	*News Stand
+
+	*Better interface
+
+
+Cinnamon
+------------
+
+Nemo option to have the systray copy progress on even when the dialog is open
+
+Move startup applications to default applications
+
+Hide item, edit item, options to right click popup in cinnamon menu
+
+In nemo make following a link in the same directory not refresh the whole directory
+
+Graphical option to disable hot corner but leave button on
+
+Right click on home folder on desktop has options for sub home folder eg pictures and downloads
+
+Make systray items visibility configurable
+
+Add logout sound to cinnamon sounds
+
+Ratings on sound applet/desklet
+
+Make Super+D (Show Desktop) work by default
+
+Easy way to change default terminal in Nemo
+
+Implement some features from marlin to nemo
+
+Printscreen should launch something like in mate
+
+Dragging items from the menu to the desktop should create desktop shortcuts or desklet launchers
+
+Add Delay option to hot corner
+
+Places applet merged into cinnamon
+
+Fix slider on sound applet
+
+Add config to screensaver clock                          
+
+Printer Applet/systray item that appears when there is print job       
+
+Window list preview option
+
+Work on Colour in Cinnamon Settings
+
+Cinnamon settings Advanced mode is weird, fix it!  
+	
+	*Red banner at the top like nemo
+	
+	*Better button        
+
+Shutdown choices as a cinnamon dialog box
+
+Other
+------------
+
+Use another method for bug reports
+
+in Caja change "Open as Administrator" to "Open as Root" and add a red banner like nemo
+
+
+Later
+------------
+
 Improve Cinnamon Settings...
 
-	*Remove hardcodin, eg. use desktop files instead of hard coded items
+	*Remove hardcoding, eg. use desktop files instead of hard coded items
 
 Add tabs to background settings for pictures and colours, try to add a custom slideshow?
 
 Change Universal Access to Accessibility
 
 	*Improve Layout
- 
-Advanced mode is weird, fix it!  
-	
-	*Red banner at the top like nemo
-	
-	*Better button            
-
-Work on Colour in Cinnamon Settings
-
-Make systray items visibility configurable
 
 Make sound applet control specific applications
 
-Steal some good applications from linux deepin
-
-Under Date/Time settings, make link for calendar applet settings
-	
-	*Work on Date & Time Settings, Time-zones and locations
-
-Add some mint tools to cinnamon settings
-
-Editable name text on desktop more readable
-
-Add Documentation for mint
-
 Make cinnamon respect hide icons on menus
-
-Double clicking on an applet in the list opens configuration
-
-Option to show password or a hint in MDM
-
-Message to restart Cinnamon when icon them is changed
-
-In nemo make following a link in the same directory not refresh the whole directory
 
 Nemo music previewer (like caja)                         
 
 Make Keybindings to menu configurable
 
-Network password Confirmation from Cinnamon instead of nm-applet
+Right click desktop, option for desktop settings (As an action)
 
-Media keys transfer to MPRIS D-Bus                       
+Set configurable timeout for notifications
 
-Graphical option to disable hot corner but leave button on
-
-Right click desktop, option for desktop settings         
-
-Add config to screensaver clock                          
-
-Printer Applet that appears when their is print job       
-
-Add deb package to download and install Minecraft launcher
-
-Add easy keybindings to applets
-
-Set timeout for notifications
-
-Mdm support changing the default background picture
-
-Something like AudioShell for Nemo
-
-Sounds for expo/workspace osd
-
-Window list preview option
-
-Make more programs use pkexec instead of gksu
+Something like AudioShell for Nemo (edit ID3/ID2 Tags)
 
 HTML Screensavers
 
-Spices System for icons, gtk themes, window borders ect.
-
-Places applet merged into cinnamon
-	
-	*Custom icon
-
-Spices system for MDM themes
-
-Open folder music in vlc
-
-Spices system for nemo actions
+Spices System for icons, gtk themes, window borders, nemo actions, mdm themes ect.
 
 enable/disable each nemo extension
 
-Fix slider on sound applet
-
 Pastbin for nemo
 
-Totem should hide sidebar by default
-
-Gimp should be in single window mode by default
-
-Searching in mintinstall is buggy
-
-Dragging items from the menu to the desktop should create desktop shortcuts or desklet launchers
-
-Netflix on import and featured
-
-Add Delay option to hot corner
-
-Add music album preview to nemo
-
-Ratings on sound applet/desklet
-
-Show album art/info/basic controls on the screensaver
-
-Right click on home folder on desktop has options for sub home folder eg pictures and downloads
-
-Printscreen should launch something like in mate
-
-Epub Support
-
-News Stand for Linux Voice and other magazines and books
-
-More control for mice (Ability to make them slower?)
-
-Easy way to change default terminal in Nemo
-
-Implement some features from marlin to nemo
-
-User picture chooser in ubiquity
-
-in Caja change "Open as Administrator" to "Open as Root" and add a red banner like nemo
-
-Add logout sound to cinnamon sounds
-
-Make Super+D (Show Desktop) work by default
-
-Use another method for bug reports
-
-Icon for tanglet
-
-Show Hidden Startup Apps: (sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop)
+Add music album preview to nemo folders
 
