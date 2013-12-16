@@ -15,8 +15,6 @@ Improve Cinnamon Settings
 
 	*Change Universal Access to Accessibility
 
-	*Move Nemo settings to Cinnamon settings
-
 	*Add config to screensaver clock                          
 
 	*Move startup applications to default applications
@@ -119,6 +117,7 @@ System
 
 	*HTML Screensaver
 
+	*Analog Clock in popup calendar applet
 
 
 Icons
