@@ -18,11 +18,11 @@ Improve Cinnamon Settings
 
 	*Change Universal Access to Accessibility
 
-	*Add config to screensaver clock                          
+	*Add config to screensaver clock 
 
 	*Move startup applications to default applications
 	
-	*Cinnamon settings Advanced mode is weird, fix it!  
+	*Cinnamon settings Advanced mode is weird, fix it!
 	
 		*Red banner at the top like nemo
 	
@@ -80,6 +80,20 @@ System
 
 	*(Cinnamon)Set configurable timeout for notifications
 
+	*(Cinnamon)Window List options stack and preview
+
+	*(Cinnamon) Chameleon Panel effects
+
+	*(Cinnamon) Custom user image crop
+
+	*(Cinnamon) visibly drag items off panel
+
+	*(Cinnamon) Make mouse keys faster and fix on screen keyboard
+
+	*(Cinnamon) User settings, dont prompt for password, and fingerprint login
+
+	*(Cinnamon) Iconicize widows in panel
+
 	*Alternative to Banshee(?)
 
 		*Clementine
@@ -98,7 +112,7 @@ System
 
 	*(Nemo)following link in the same directory refreshes current view
 
-	*Printer Applet/systray item that appears when there is print job(?)      
+	*Printer Applet/systray item that appears when there is print job(?)
 
 	*User picture choise in ubiquity(?)
 
@@ -106,8 +120,9 @@ System
 
 	*(MDM) Password hint option
 
-	*(Nemo) music previewer like Caja            
+	*(Nemo) music previewer like Caja 
 
+	*(Nemo) Checkboxes or such to select files/folders option
 -------------------------------------------------------------------------------------------             
 
 	*Parental controls to stop specific users from using applications(?)(?)
