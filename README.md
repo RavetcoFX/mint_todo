@@ -8,7 +8,7 @@ Improve Cinnamon Settings
 	
 	*Remove hardcoding, eg. use desktop files instead of hard coded items
 
-	*Work on Date & Time Settings based on mtwebsters idea, Time-zones map (Wait untill localization is done)\
+	*Work on Date & Time Settings based on mtwebsters idea, Time-zones map (Wait untill localization is done)
 		
 		*Under Date/Time settings, make link for calendar applet settings
 
@@ -94,6 +94,18 @@ System
 
 	*(Cinnamon) Iconicize widows in panel
 
+	*(Cinnamon) Some cool method of searching for files
+
+	*(Cinnamon) Minty Numix Theme
+
+	*(Cinnamon) Wallpaper add wallpaper show preview
+
+	*(Cinnamon) User applet display name
+
+	*(Cinnamon) Allow Dragging items off the panel
+
+	*(Cinnamon) Add a neat clock desklet that has three colored circles 
+
 	*Alternative to Banshee(?)
 
 		*Clementine
@@ -123,6 +135,16 @@ System
 	*(Nemo) music previewer like Caja 
 
 	*(Nemo) Checkboxes or such to select files/folders option
+
+	*(Nemo) Emblems
+
+	*(Nemo) Permissions tab last in file properties
+
+	*(Nemo) File previewer on side bar right
+
+	*(Nemo) Fix breadcrumbs to look nice in all themes
+
+	*(MintBackup) Whitelist of programs already installed not to include
 -------------------------------------------------------------------------------------------             
 
 	*Parental controls to stop specific users from using applications(?)(?)
