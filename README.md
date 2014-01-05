@@ -57,6 +57,8 @@ System
 	*Make more applications use pkexec instead of gksu
 	
 	*User Manual?
+
+	*Include Solaar package for logitech devices
 	
 	*Guest accounts	
 	
@@ -78,7 +80,7 @@ System
 	
 	*(Cinnamon)Make cinnamon respect hide icons on menus
 
-	*(Cinnamon)Set configurable timeout for notifications
+	*(Cinnamon)Set configurable timeout for notifications, possibly option for 3 notifications at a time
 
 	*(Cinnamon)Window List options stack and preview
 
@@ -100,11 +102,17 @@ System
 
 	*(Cinnamon) Wallpaper add wallpaper show preview
 
-	*(Cinnamon) User applet display name
+	*(Cinnamon)[Done in Git] User applet display name
 
 	*(Cinnamon) Allow Dragging items off the panel
 
 	*(Cinnamon) Add a neat clock desklet that has three colored circles 
+
+	*(Cinnamon) Bug with clutter when trying to grab a window it grabs a desklet
+
+	*(Cinnamon) Desklet right click icons
+
+	*(Cinnamon) Make removing an item from the favourites more intuitive
 
 	*Alternative to Banshee(?)
 
@@ -145,6 +153,8 @@ System
 	*(Nemo) Fix breadcrumbs to look nice in all themes
 
 	*(MintBackup) Whitelist of programs already installed not to include
+
+	*(MintBackup) Does it need root privs?
 -------------------------------------------------------------------------------------------             
 
 	*Parental controls to stop specific users from using applications(?)(?)
