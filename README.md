@@ -20,6 +20,10 @@ Improve Cinnamon Settings
 
 	*Add config to screensaver clock 
 
+	*Let user take webcam shot and or select from faces
+
+	*User Face display on welcome screen
+	
 	*Move startup applications to default applications
 	
 	*Cinnamon settings Advanced mode is weird, fix it!
@@ -40,6 +44,8 @@ Improve Cinnamon Settings
 
 	*Printer
 
+	*Some Good method of searching the computer
+
 Improve Mintinstall
 	
 	*Apearence/layout
@@ -58,7 +64,7 @@ System
 	
 	*User Manual?
 
-	*Include Solaar package for logitech devices
+	*Include Solaar, Netfilx in import
 	
 	*Guest accounts	
 	
@@ -114,6 +120,8 @@ System
 
 	*(Cinnamon) Make removing an item from the favourites more intuitive
 
+	*(Cinnamon) Pin Files/Folders to panel
+
 	*Alternative to Banshee(?)
 
 		*Clementine
@@ -121,8 +129,6 @@ System
 		*Gmusicbrowser
 
 	*Show Hidden Startup Apps: [sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop]
-
-	*Netflix and Google Chrome in import
 
 	*Show album art/info/basic controls on the screensaver(?)
 
@@ -151,6 +157,8 @@ System
 	*(Nemo) File previewer on side bar right
 
 	*(Nemo) Fix breadcrumbs to look nice in all themes
+
+	*(Nemo) Way to configure context items
 
 	*(MintBackup) Whitelist of programs already installed not to include
 
