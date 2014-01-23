@@ -20,7 +20,7 @@ Improve Cinnamon Settings
 
 	*Add config to screensaver clock 
 
-	*Let user take webcam shot and or select from faces
+	*Let user take webcam shot and or select from faces in ubuiquity
 
 	*User Face display on welcome screen
 	
@@ -38,13 +38,15 @@ Improve Cinnamon Settings
 	
 	*Wallpaper Module (Slideshows, Color, Flicker, ect.)
 
-	*Seperate GTK theme (?)
+	*Seperate GTK theme settings (?)
 
 	*Sound Moudle
 
 	*Printer
 
 	*Some Good method of searching the computer
+
+	*Spices Settings, allow parent panels for visual reasons ect.
 
 Improve Mintinstall
 	
@@ -60,19 +62,7 @@ System
 
 	*(Nemo) Bug with close tab & search	
 
-	*Make more applications use pkexec instead of gksu
-	
-	*User Manual?
-
-	*Include Solaar, Netfilx in import
-	
-	*Guest accounts	
-	
-	*Hide totem sidebar by default
-
-	*(Cinnamon)Printscreen should launch something like in mate
-
-	*Disable mounted drives on desktop by default
+	*(Cinnamon)Printscreen should launch something like in mate and ubuntu
 
 	*Add logout sound to cinnamon sounds
 
@@ -118,17 +108,19 @@ System
 
 	*(Cinnamon) Desklet right click icons
 
-	*(Cinnamon) Make removing an item from the favourites more intuitive
+	*(Cinnamon) Make removing an item from the favourites more intuitive (eg. popup menu
 
 	*(Cinnamon) Pin Files/Folders to panel
 
-	*Alternative to Banshee(?)
+	*(Cinnamon) Places applet with configurable text and configurable show recent menu, and configurable search for files, and configurable removable drives
 
-		*Clementine
-		
-		*Gmusicbrowser
+	*(Cinnamon) Calendar settings link to date and time settings
 
-	*Show Hidden Startup Apps: [sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop]
+	*(Cinnamon) Allow option for fading window when holding
+
+	*(Cinnamon) Media/Sound applet, option to scroll text alwase, never or on hover, and option of what information to display on panel
+
+	*(Cinnamon) Workspace switcher applet, allow multiple rows to display, configure rows, configure is text displayed on each
 
 	*Show album art/info/basic controls on the screensaver(?)
 
@@ -139,8 +131,6 @@ System
 	*(Nemo)following link in the same directory refreshes current view
 
 	*Printer Applet/systray item that appears when there is print job(?)
-
-	*User picture choise in ubiquity(?)
 
 	*Network password confirmation from Cinnamon instead of nm-applet
 
@@ -162,10 +152,8 @@ System
 
 	*(MintBackup) Whitelist of programs already installed not to include
 
-	*(MintBackup) Does it need root privs?
+	*(MintBackup) Does it need root privileges?
 -------------------------------------------------------------------------------------------             
-
-	*Parental controls to stop specific users from using applications(?)(?)
 
 	*Something like AudioShell for Nemo (edit ID3/ID2 Tags)(?)(?)
 	
@@ -180,17 +168,34 @@ System
 
 Icons
 
-	*Callibre
-
-		*Krita ect.
-
 	*Git Monkey
-
 
 Misc
 ------------------
 
 Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its easy to pronounce, and has a great meaningful definition
+
+	*Disable mounted drives on desktop by default
+
+	*Make more applications use pkexec instead of gksu
+	
+	*User Manual?
+
+	*Include Solaar, Netfilx in import
+	
+	*Guest accounts	
+	
+	*Hide totem sidebar by default
+
+	*Alternative to Banshee(?)
+
+		*Clementine
+		
+		*Gmusicbrowser
+
+	*Parental controls to stop specific users from using applications(?)(?)
+
+	*Show Hidden Startup Apps: [sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop]
 
 Update mint(?): when installing through the iso, give option to upgrade by keeping files safe, or have a separate home partition, get a list of all non white-listed default applications, keep configurations, delete everything else, install system, grab and install all applications, install config files
 
