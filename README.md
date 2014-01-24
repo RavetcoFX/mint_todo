@@ -122,6 +122,10 @@ System
 
 	*(Cinnamon) Workspace switcher applet, allow multiple rows to display, configure rows, configure is text displayed on each
 
+	*(Cinnamon) Location and map and weather in the clock applet
+
+	*(Cinnamon) Option for Super+UP to be maximize or tile
+
 	*Show album art/info/basic controls on the screensaver(?)
 
 	*In Caja change "Open as Administrator" to "Open as Root" and add a red banner like nemo
