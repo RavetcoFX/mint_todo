@@ -42,11 +42,13 @@ Improve Cinnamon Settings
 
 	*Sound Moudle
 
-	*Printer
+	*Printer, Make localhost:631 more easily accessible
 
 	*Some Good method of searching the computer
 
 	*Spices Settings, allow parent panels for visual reasons ect.
+	
+	*Better Applet icons
 
 Improve Mintinstall
 	
@@ -200,6 +202,10 @@ Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its eas
 	*Parental controls to stop specific users from using applications(?)(?)
 
 	*Show Hidden Startup Apps: [sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop]
+
+	*Offline dictionary
+
+	*Out of box MIDI support
 
 Update mint(?): when installing through the iso, give option to upgrade by keeping files safe, or have a separate home partition, get a list of all non white-listed default applications, keep configurations, delete everything else, install system, grab and install all applications, install config files
 
