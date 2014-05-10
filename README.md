@@ -5,6 +5,8 @@ Mint 17
 -----------
 
 Improve Cinnamon Settings
+
+	*Remove Cinnamon-settings Advanced mode
 	
 	*Remove hardcoding, eg. use desktop files instead of hard coded items
 
@@ -12,11 +14,9 @@ Improve Cinnamon Settings
 		
 		*Under Date/Time settings, make link for calendar applet settings
 
-	*[Done in Git]Hot corner to allow icon on and hover off
-
 	*Default Terminal in default applications
 
-	*Change Universal Access to Accessibility
+	*Change Universal Access to Accessibility [Done in git]
 
 	*Add config to screensaver clock 
 
@@ -25,12 +25,6 @@ Improve Cinnamon Settings
 	*User Face display on welcome screen
 	
 	*Move startup applications to default applications
-	
-	*Cinnamon settings Advanced mode is weird, fix it!
-	
-		*Red banner at the top like nemo
-	
-		*Better button       
 	
 	*Work on Colour in Cinnamon Settings
 
@@ -50,6 +44,8 @@ Improve Cinnamon Settings
 	
 	*Better Applet icons
 
+	*Fix MintBackup and Unetbootin icons
+
 Improve Mintinstall
 	
 	*Apearence/layout
@@ -62,9 +58,7 @@ System
 
 	*(Cinnamon/Muffin)Add Delay option to hot corner	
 
-	*(Nemo) Bug with close tab & search	
-
-	*(Cinnamon)Printscreen should launch something like in mate and ubuntu
+	*(Nemo) Bug with close tab & search
 
 	*Add logout sound to cinnamon sounds
 
@@ -72,9 +66,7 @@ System
 
 	*(Cinnamon)Ratings on sound applet/desklet
 
-	*(Cinnamon) Hide item, edit item, options to right click popup in menu
-
-	*(Cinnamon)Make systray items visibility configurable
+	*(Cinnamon) Hide item, edit item, options to right click popup in Menu Applet
 	
 	*(Cinnamon)Make cinnamon respect hide icons on menus
 
@@ -82,11 +74,7 @@ System
 
 	*(Cinnamon)Window List options stack and preview
 
-	*(Cinnamon) Chameleon Panel effects
-
-	*(Cinnamon) Custom user image crop
-
-	*(Cinnamon) visibly drag items off panel
+	*(Cinnamon) Custom user face crop
 
 	*(Cinnamon) Make mouse keys faster and fix on screen keyboard
 
@@ -96,21 +84,11 @@ System
 
 	*(Cinnamon) Some cool method of searching for files
 
-	*(Cinnamon) Minty Numix Theme
-
-	*(Cinnamon) Wallpaper add wallpaper show preview
-
-	*(Cinnamon)[Done in Git] User applet display name
-
 	*(Cinnamon) Allow Dragging items off the panel
 
 	*(Cinnamon) Add a neat clock desklet that has three colored circles 
 
-	*(Cinnamon) Bug with clutter when trying to grab a window it grabs a desklet
-
-	*(Cinnamon) Desklet right click icons
-
-	*(Cinnamon) Make removing an item from the favourites more intuitive (eg. popup menu
+	*(Cinnamon) Make removing an item from the favourites more intuitive (eg. popup menu)
 
 	*(Cinnamon) Pin Files/Folders to panel
 
@@ -126,7 +104,11 @@ System
 
 	*(Cinnamon) Location and map and weather in the clock applet
 
-	*(Cinnamon) Option for Super+UP to be maximize or tile
+	*(Cinnamon) Option for Super+UP to be maximize or tile'
+
+	*(Cinnamon/Muffin) Areo Shake, Minimize all windows and restore (Hot Corner option too?)
+
+	*(Cinnamon) More Hot corner options
 
 	*Show album art/info/basic controls on the screensaver(?)
 
@@ -155,6 +137,12 @@ System
 	*(Nemo) Fix breadcrumbs to look nice in all themes
 
 	*(Nemo) Way to configure context items
+    
+    *(Nemo) Middle click toolbar icons
+    
+    *(Nemo) Open in terminal toolbar
+    
+    *(Nemo) Duplicate in context menu
 
 	*(MintBackup) Whitelist of programs already installed not to include
 
@@ -179,19 +167,19 @@ Icons
 Misc
 ------------------
 
-Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its easy to pronounce, and has a great meaningful definition
-
 	*Disable mounted drives on desktop by default
 
 	*Make more applications use pkexec instead of gksu
 	
 	*User Manual?
 
-	*Include Solaar, Netfilx in import
+	*Include Solaar, Gitmonkey in import
 	
 	*Guest accounts	
-	
-	*Hide totem sidebar by default
+
+	*Alternative to Totem(?)
+
+		*Parole?
 
 	*Alternative to Banshee(?)
 
@@ -199,20 +187,6 @@ Linux Mint 17 Name: Quanda - Meaning a companion, pronounced [k-wan-da], its eas
 		
 		*Gmusicbrowser
 
-	*Parental controls to stop specific users from using applications(?)(?)
-
 	*Show Hidden Startup Apps: [sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop]
 
-	*Offline dictionary
-
 	*Out of box MIDI support
-
-Update mint(?): when installing through the iso, give option to upgrade by keeping files safe, or have a separate home partition, get a list of all non white-listed default applications, keep configurations, delete everything else, install system, grab and install all applications, install config files
-
-Mint Website mockups
-
-Use another method for bug reports
-
-
-
-
