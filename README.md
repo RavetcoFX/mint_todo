@@ -1,38 +1,32 @@
 Linux Mint TODO
 ===============
 
+
+
 Mint 17
 -----------
 
-Improve Cinnamon Settings
+    *Fix stupid date time having mind of its own
+    
+    *Mintdrivers being slow to start
 
-	*Remove Cinnamon-settings Advanced mode
+
+Later
+-----------
+
+Improve Cinnamon Settings
 	
 	*Remove hardcoding, eg. use desktop files instead of hard coded items
 
-	*Work on Date & Time Settings based on mtwebsters idea, Time-zones map (Wait untill localization is done)
-		
-		*Under Date/Time settings, make link for calendar applet settings
-
 	*Default Terminal in default applications
-
-	*Change Universal Access to Accessibility [Done in git]
 
 	*Add config to screensaver clock 
 
 	*Let user take webcam shot and or select from faces in ubuiquity
 
-	*User Face display on welcome screen
-	
-	*Move startup applications to default applications
-	
-	*Work on Colour in Cinnamon Settings
-
 	*Network Module
 	
-	*Wallpaper Module (Slideshows, Color, Flicker, ect.)
-
-	*Seperate GTK theme settings (?)
+	*Wallpaper Module (Slideshows, Color, Flicker, ect.
 
 	*Sound Moudle
 
@@ -56,19 +50,15 @@ System
 
 	*cinnamon-bluetooth sends passkey input to notify-send(doesnt work) should send to a dialog box
 
-	*(Cinnamon/Muffin)Add Delay option to hot corner	
+	*(Cinnamon/Muffin)Add Delay option to hot corner
 
 	*(Nemo) Bug with close tab & search
 
-	*Add logout sound to cinnamon sounds
-
-	*(Cinnamon)Make Super+D (Show Desktop) work by default
-
 	*(Cinnamon)Ratings on sound applet/desklet
 
-	*(Cinnamon) Hide item, edit item, options to right click popup in Menu Applet
+	*(Cinnamon) Edit item, options to right click popup in Menu Applet
 	
-	*(Cinnamon)Make cinnamon respect hide icons on menus
+	*(Cinnamon)Make cinnamon respect hide icons on menus (look into later)
 
 	*(Cinnamon)Set configurable timeout for notifications, possibly option for 3 notifications at a time
 
@@ -78,37 +68,31 @@ System
 
 	*(Cinnamon) Make mouse keys faster and fix on screen keyboard
 
-	*(Cinnamon) User settings, dont prompt for password, and fingerprint login
-
 	*(Cinnamon) Iconicize widows in panel
-
-	*(Cinnamon) Some cool method of searching for files
 
 	*(Cinnamon) Allow Dragging items off the panel
 
-	*(Cinnamon) Add a neat clock desklet that has three colored circles 
-
 	*(Cinnamon) Make removing an item from the favourites more intuitive (eg. popup menu)
 
-	*(Cinnamon) Pin Files/Folders to panel
-
-	*(Cinnamon) Places applet with configurable text and configurable show recent menu, and configurable search for files, and configurable removable drives
-
-	*(Cinnamon) Calendar settings link to date and time settings
-
-	*(Cinnamon) Allow option for fading window when holding
-
-	*(Cinnamon) Media/Sound applet, option to scroll text alwase, never or on hover, and option of what information to display on panel
+	*(Cinnamon) Pin Files/Folders to panel (??)
 
 	*(Cinnamon) Workspace switcher applet, allow multiple rows to display, configure rows, configure is text displayed on each
 
-	*(Cinnamon) Location and map and weather in the clock applet
+	*(Cinnamon) Multiple Locations and map and weather in the clock applet like in MATE/gnome2
 
-	*(Cinnamon) Option for Super+UP to be maximize or tile'
+	*(Cinnamon) Option for Super+UP to be maximize or tile
 
-	*(Cinnamon/Muffin) Areo Shake, Minimize all windows and restore (Hot Corner option too?)
+	*(Cinnamon/Muffin) Areo Shake, Minimize all windows and restore (Hot Corner option too?)(??)
 
-	*(Cinnamon) More Hot corner options
+	*(Cinnamon) Make startup applications a settings module
+
+    *(Cinnamon) [Minor UI] Date Time module cut off horizontally
+    
+    *(Cinnamon) [Minor UI] The Antialiasing and Hinting drop down menu boxes appear to be very slightly out of alignment with the other drop down menu boxes.
+    
+    *(Cinnamon) [Minor UI] Under Auto-hide panel, the input boxes for “show delay” and “hide delay” are not aligned. Many other such input boxes and drop down menu boxes are aligned with each other and not with the end of the text.
+
+    *(Cinnamon) [Minor UI] The Cinnamon drag threshold and GTK drag threshold input boxes are not aligned to each other but appended to the end of the wording. They should be aligned as per other similar examples in the Cinnamon Control Centre.
 
 	*Show album art/info/basic controls on the screensaver(?)
 
@@ -124,15 +108,13 @@ System
 
 	*(MDM) Password hint option
 
-	*(Nemo) music previewer like Caja 
-
 	*(Nemo) Checkboxes or such to select files/folders option
 
 	*(Nemo) Emblems
 
 	*(Nemo) Permissions tab last in file properties
 
-	*(Nemo) File previewer on side bar right
+	*(Nemo) File previewer on side bar right(??)
 
 	*(Nemo) Fix breadcrumbs to look nice in all themes
 
