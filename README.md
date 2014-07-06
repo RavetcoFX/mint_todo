@@ -2,15 +2,6 @@ Linux Mint TODO
 ===============
 
 
-
-Mint 17
------------
-
-    *Fix stupid date time having mind of its own
-    
-    *Mintdrivers being slow to start
-
-
 Later
 -----------
 
@@ -92,7 +83,15 @@ System
     
     *(Cinnamon) [Minor UI] Under Auto-hide panel, the input boxes for “show delay” and “hide delay” are not aligned. Many other such input boxes and drop down menu boxes are aligned with each other and not with the end of the text.
 
+    *(Cinnamon) Add IP adress to network popup
+    
     *(Cinnamon) [Minor UI] The Cinnamon drag threshold and GTK drag threshold input boxes are not aligned to each other but appended to the end of the wording. They should be aligned as per other similar examples in the Cinnamon Control Centre.
+
+    *(Cinnamon) Make settings API settings move to individual dialogs
+    
+    *(Cinnamon) Accessibility settings mouse stuff not working, remove?
+    
+    *(Cinnamon) Blacklist certain items from appearing in the systray applet, add a new gsetting key, filter it out in statusIconDispatcher where we do applet roles
 
 	*Show album art/info/basic controls on the screensaver(?)
 
@@ -125,6 +124,8 @@ System
     *(Nemo) Open in terminal toolbar
     
     *(Nemo) Duplicate in context menu
+    
+    *(Nemo && Cinnamon) Use Notifications or indicator for file operations
 
 	*(MintBackup) Whitelist of programs already installed not to include
 
@@ -145,7 +146,8 @@ System
 Icons
 
 	*Git Monkey
-
+    
+    *Make Mint-x-Dark more consitant
 Misc
 ------------------
 
@@ -172,3 +174,7 @@ Misc
 	*Show Hidden Startup Apps: [sudo sed -i "s/NoDisplay=true/NoDisplay=false/g" /etc/xdg/autostart/*.desktop]
 
 	*Out of box MIDI support
+    
+    *Multi package deb generator, like ninite for mint
+
+    *Easy open dvd VLC dialog
